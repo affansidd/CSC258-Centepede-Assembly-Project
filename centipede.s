@@ -3,7 +3,7 @@
 # CSC258H Winter 2021 Assembly Final Project 
 # University of Toronto, St. George
 #
-# Student: Affanullah Siddiqui, Student Number: 1006072036
+# Student: Affanullah Siddiqui,
 #
 # Bitmap Display Configuration:
 # - Unit width in pixels: 8 
